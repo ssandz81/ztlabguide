@@ -1,0 +1,24 @@
+﻿---
+id: ZTOverview
+title: Zero Trust
+slug: /
+---
+# Zero Trust 
+
+Zero trust is a modern security strategy based on the principle: never trust, always verify. Instead of assuming everything behind the corporate firewall is safe, the Zero Trust model assumes breach and verifies each request as though it originates from an open network.
+
+# Zero Trust principles
+
+Verify explicitly
+Always authenticate and authorize based on all available data points, including user identity, location, device health, service or workload, data classification, and anomalies.
+
+Use least-privilege access
+Limit user access with just-in-time and just-enough access (JIT/JEA), risk-based adaptive polices, and data protection to help secure both data and productivity.
+
+Assume breach
+Minimize blast radius and segment access. Verify end-to-end encryption and use analytics to get visibility, drive threat detection, and improve defenses.
+
+
+
+
+![Timeline Description automatically generated](img/ztlabguidemap.png)
